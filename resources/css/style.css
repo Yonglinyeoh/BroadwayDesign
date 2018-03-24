@@ -27,7 +27,14 @@ h3,h4{
   font-weight:bold;
 }
 
-}
 .content p,.design p {
   font-size:14px;
+}
+.footer {
+  color:white;
+  background-color: dimgray;
+  text-align:left;
+}
+.copyright {
+  font-size: 14px;
 }
